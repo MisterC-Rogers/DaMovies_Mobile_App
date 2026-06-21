@@ -11,6 +11,9 @@
       ],
       "@/constants/*": [
         "./constants/*"
+      ],
+      "@/components/*": [
+        "./components/*"
       ]
     }
   },
