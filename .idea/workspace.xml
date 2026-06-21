@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="144280bc-35c1-4e75-aa71-dc3ec690fe52" name="Changes" comment="nav, tab bar styles, logos, nativewind setup">
-      <change afterPath="$PROJECT_DIR$/components/searchBar.tsx" afterDir="false" />
+    <list default="true" id="144280bc-35c1-4e75-aa71-dc3ec690fe52" name="Changes" comment="search bar and some home screen styling">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/useFetch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MisterC-Rogers&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MisterC-Rogers/DaMovies_Mobile_App.git&quot;,
+    &quot;accountId&quot;: &quot;eb265338-85ff-468d-ba3f-7116db4d72d6&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
@@ -82,7 +98,7 @@
       <workItem from="1781904713992" duration="6134000" />
       <workItem from="1781919007379" duration="590000" />
       <workItem from="1781919643932" duration="2024000" />
-      <workItem from="1781921868628" duration="14115000" />
+      <workItem from="1781921868628" duration="16218000" />
     </task>
     <task id="LOCAL-00001" summary="nav, tab bar styles, logos, nativewind setup">
       <option name="closed" value="true" />
@@ -100,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781933581132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="search bar and some home screen styling">
+      <option name="closed" value="true" />
+      <created>1782023396206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782023396206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init setup, nav, tabBar styles, and logos" />
     <MESSAGE value="nav, tab bar styles, logos, nativewind setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav, tab bar styles, logos, nativewind setup" />
+    <MESSAGE value="search bar and some home screen styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="search bar and some home screen styling" />
   </component>
 </project>
